@@ -1,8 +1,9 @@
 
-# Python Basics Assignment – 01
+# 👨‍💻 Python Basics Assignment – 01
+**Author:** Muhammad Awais  
 **Topics:** Variables, Data Types, Operators, and Real-Life Examples  
 
-This Python script demonstrates the following concepts:
+This Python script demonstrates the following concepts in a simple and interactive way:
 
 1. Variables & Data Types  
 2. Arithmetic Operators  
@@ -14,7 +15,7 @@ This Python script demonstrates the following concepts:
 
 ---
 
-## 📝 Q1: Variables & Data Types
+## 📝 Q1: Variables & Data Types 🧾
 - Initialize variables: `name`, `age`, `is_student`  
 - Convert boolean into human-readable text (`Yes`/`No`)  
 - Print introduction and data types  
@@ -29,7 +30,7 @@ is_student Data Type  : <class 'bool'>
 
 ---
 
-## 📝 Q2: Arithmetic Operators
+## ➕ Q2: Arithmetic Operators 🔢
 - Demonstrates addition, subtraction, multiplication, division, floor division, modulus, and exponentiation  
 
 **Example Output:**
@@ -45,7 +46,7 @@ Exponent        :  x(20) ** y(6) = 64000000
 
 ---
 
-## 📝 Q3: Assignment Operators
+## 📝 Q3: Assignment Operators 🛠️
 - Uses `+=`, `*=`, `-=` operators and prints updated values  
 
 **Example Output:**
@@ -57,7 +58,7 @@ Final value of all operators after 30 - 4 is   :  26
 
 ---
 
-## 📝 Q4: Comparison Operators
+## ⚖️ Q4: Comparison Operators 🧐
 - Compares two numbers using `>`, `<`, `==`, `!=`, `>=`, `<=`  
 
 **Example Output:**
@@ -72,7 +73,7 @@ a(15) <= b(12) : False
 
 ---
 
-## 📝 Q5: Logical Operators
+## 🔗 Q5: Logical Operators 🤔
 - Demonstrates `AND`, `OR`, `NOT` operations with boolean values  
 
 **Example Output:**
@@ -85,7 +86,7 @@ NOT q(False)          :  True
 
 ---
 
-## 📝 Q6: Real-Life Example
+## 💰 Q6: Real-Life Example 📝
 - Calculates total price of notebooks and checks if money is enough  
 
 **Example Output:**
@@ -100,7 +101,7 @@ Remaining amount is : 40
 
 ---
 
-## 📝 Q7: User Input, Sum, and Comparison
+## 📊 Q7: User Input, Sum, and Comparison 🖊️
 - Takes two numbers from user input  
 - Calculates sum and compares them  
 
@@ -116,4 +117,3 @@ The sum of 10 and 20 is: 30
 
 **✅ Summary:**  
 This script is a complete introduction to Python basics including variables, data types, operators, and simple real-world applications. It is interactive and demonstrates step-by-step outputs for better understanding.
-
